@@ -1,0 +1,19 @@
+Window Noun:
+- german translation direct under polish
+- counter with point today and played time
+- count time since opening noun or verb
+- option fiszki ( input and article inactive)
+
+Settings
+- select data file for noun
+- select data file for verb
+- select data file for others
+- Statistics popup
+    - time today
+    - time at all
+    - guessed words
+    - not guessed words
+- option writing or fiszki for each type
+
+Dictionry
+    - refresh after New word
